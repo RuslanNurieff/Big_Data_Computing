@@ -18,7 +18,7 @@ Let S be a set of N points from some metric space and, for each $p\in S$ let $B_
 - $R_{3}(C_{p})$ = 3x3 grid of cells with $C_{p}$ in the middle.
 - $R_{7}(C_{p})$ = 7x7 grid of cells with $C_{p}$ in the middle.
 
-![Cell](https://github.com/user-attachments/assets/478ea738-dc53-4281-9211-4118795186d3)
+![Cell](https://github.com/user-attachments/assets/7c6e5c2e-3968-478b-8440-b1513b6acf49)
 
 Let's also define:
 
